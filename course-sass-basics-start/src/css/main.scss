@@ -1,0 +1,19 @@
+/**
+-- base imports
+-- component imports
+-- layout imports
+**/
+
+/* base imports */
+@use './base/reset';
+@use './base/typography';
+
+/* component imports */
+@use './components/buttons';
+@use './components/reasons';
+@use './components/navbar';
+@use './components/hero';
+
+/* layout imports */
+@use './layout/layout';
+@use './layout/footer';
