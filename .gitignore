@@ -1,3 +1,8 @@
-**/node_modules
-**/.vscode
-**/*.workspace
+node_modules/
+
+.vscode/
+*.workspace/
+
+build/
+dist/
+.parcel-cache/
